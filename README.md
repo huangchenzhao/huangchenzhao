@@ -15,7 +15,7 @@
 
 <h3 align="left">Account Stats</h3>
 
-![my account stats](https://github-readme-stats.vercel.app/api?username=huangchenzhao&show_icons=true&locale=en)![a pie diagram of programming languages by repo](https://github-readme-stats.vercel.app/api/top-langs?username=huangchenzhao&show_icons=true&locale=en&layout=compact" alt="huangchenzhao)
+![my account stats](https://github-readme-stats.vercel.app/api?username=huangchenzhao&show_icons=true&locale=en)(https://github-readme-stats.vercel.app/api/top-langs?username=huangchenzhao&show_icons=true&locale=en&layout=compact" alt="huangchenzhao)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huangchenzhao&show_icons=true&locale=en" alt="huangchenzhao" /></p>
 
