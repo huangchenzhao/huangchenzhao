@@ -2,10 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huangchenzhao&label=Profile%20views&color=0e75b6&style=flat" alt="huangchenzhao" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huangchenzhao" alt="huangchenzhao" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - ⚡ I’m currently working on **operating system and distributed system**
 
 - 🌱 I’m looking to participate in **kubernetes and cloud native**
