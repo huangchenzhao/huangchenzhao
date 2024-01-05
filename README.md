@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm huangchenzhao</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=huangchenzhao&label=Profile%20views&color=0e75b6&style=flat" alt="huangchenzhao" /> </p>
-
 - ⚡ I’m currently working on **operating system** and **distributed system**
 
 - 🌱 I’m looking to participate in **kubernetes** and** cloud native**
