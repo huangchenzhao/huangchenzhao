@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm huangchenzhao</h1>
+
+![](https://raw.githubusercontent.com/huangchenzhao/huangchenzhao/output/github-contribution-grid-snake.svg)    
 <h3 align="left">About Me:</h3>
 
 - ⚡ I’m currently working on **operating system** and **distributed system**
@@ -16,5 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huangchenzhao&show_icons=true&locale=en" alt="huangchenzhao" /></p>
 
 <img align="center" style="padding=0;"  src="https://stats.justsong.cn/api/leetcode?username=everyang-cong-tou&cn=true"/>
-
-![](https://raw.githubusercontent.com/huangchenzhao/huangchenzhao/output/github-contribution-grid-snake.svg)    
