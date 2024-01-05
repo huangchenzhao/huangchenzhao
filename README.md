@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huangchenzhao&label=Profile%20views&color=0e75b6&style=flat" alt="huangchenzhao" /> </p>
 
-- ⚡ I’m currently working on **operating system and distributed system**
+- ⚡ I’m currently working on **operating system** and **distributed system**
 
-- 🌱 I’m looking to participate in **kubernetes and cloud native**
+- 🌱 I’m looking to participate in **kubernetes** and** cloud native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
