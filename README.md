@@ -29,17 +29,8 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=huangchenzhao&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=huangchenzhao&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
   
   </td>
 </tr>
 </table>
-
-
-![my account stats](https://github-readme-stats.vercel.app/api?username=huangchenzhao&show_icons=true&locale=en)![a pie diagram of programming languages by repo](https://github-readme-stats.vercel.app/api/top-langs?username=huangchenzhao&show_icons=true&locale=en&layout=compact)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huangchenzhao&show_icons=true&locale=en" alt="huangchenzhao" /></p>
-
-<img align="center" style="padding=0;"  src="https://stats.justsong.cn/api/leetcode?username=everyang-cong-tou&cn=true"/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huangchenzhao&show_icons=true&locale=en&layout=compact" alt="huangchenzhao" /></p>
