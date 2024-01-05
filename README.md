@@ -15,6 +15,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huangchenzhao&show_icons=true&locale=en" alt="huangchenzhao" /></p>
 
-<img align="center" style="padding=0;"  src="https://stats.justsong.cn/api/leetcode/?username=everyang-cong-tou"/>
+<img align="center" style="padding=0;"  src="https://stats.justsong.cn/api/leetcode?username=everyang-cong-tou&cn=true"/>
 
 ![](https://raw.githubusercontent.com/huangchenzhao/huangchenzhao/output/github-contribution-grid-snake.svg)    
