@@ -15,6 +15,7 @@
 
 <h3 align="left">Account Stats</h3>
 ![my account stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=huangchenzhao)![a pie diagram of programming languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huangchenzhao)
+![my account stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IcyFeather233&theme=github_dark)![a pie diagram of programming languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IcyFeather233&theme=github_dark)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huangchenzhao&show_icons=true&locale=en" alt="huangchenzhao" /></p>
 
 <img align="center" style="padding=0;"  src="https://stats.justsong.cn/api/leetcode?username=everyang-cong-tou&cn=true"/>
