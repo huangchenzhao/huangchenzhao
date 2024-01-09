@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm huangchenzhao</h1>
+
+![](https://raw.githubusercontent.com/huangchenzhao/huangchenzhao/output/github-contribution-grid-snake.svg)    
+
 <h3 align="left">About Me</h3>
 
 - ⚡ I’m currently working on **operating system** and **distributed system**
@@ -33,4 +36,4 @@
 </tr>
 </table>
 
-![](https://raw.githubusercontent.com/huangchenzhao/huangchenzhao/output/github-contribution-grid-snake.svg)    
+
