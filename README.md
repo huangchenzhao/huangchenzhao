@@ -22,8 +22,10 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=huangchenzhao&show_icons=true&count_private=true" />
   <br></br>
- <! -- <img align="center" style="padding=0;"  src="https://stats.justsong.cn/api/leetcode?username=everyang-cong-tou&cn=true"/> -->
-<script src="https://gist.github.com/huangchenzhao/6f80c76ab847a65eed2c63c95ff3959d.js"></script>
+ <!-- 
+   <img align="center" style="padding=0;"  src="https://stats.justsong.cn/api/leetcode?username=everyang-cong-tou&cn=true"/> 
+ -->
+  <script src="https://gist.github.com/huangchenzhao/6f80c76ab847a65eed2c63c95ff3959d.js"></script>
 
   
 </td>
