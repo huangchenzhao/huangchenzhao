@@ -6,9 +6,9 @@
 
 <h3 align="left">About Me</h3>
 
-- ⚡ I’m currently working on **cloud native** 
+- ⚡ I’m currently working on **Cloud Native** and **Kubernetes**.
 
-- 🌱 I’m looking to participate in **ML systems**
+- 🌱 I’m looking to participate in **ML Systems** and **Distributed Machine Learning**.
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img 
